@@ -7,11 +7,11 @@ Covid-19 pandemic provided me an opportunity to study at ISM and Turing College 
 <h3 align="left">Projects:</h3>
 <p align="left">
 <ol>
-  <li><a href="https://github.com/Karalius/south-korea-covid-analysis">South Korea Covid-19 Analysis</a> - action plan to fight covid derived from explanatory data analysis.</li>
-  <li><a href="https://github.com/Karalius/etsy-scraper">Etsy.com scraper on Heroku</a> - scraping ecommerce shop with data collection on postgreSQL and deployment to Heroku.</li>
+  <li><a href="https://github.com/Karalius/south-korea-covid-analysis">South Korea Covid-19 analysis</a> - action plan to fight covid derived from explanatory data analysis.</li>
+  <li><a href="https://github.com/Karalius/etsy-scraper">Etsy.com scraper on Heroku</a> - scraping eCommerce shop with data collection on PostgreSQL and deployment to Heroku.</li>
   <li><a href="https://github.com/Karalius/scrape-totalwine.com">Rate your wine by its description + API</a> - end to end machine learning project, from scraping totalwine.com to NLP model and API. </li>
-  <li><a href="https://github.com/Karalius/house-price-prediction">House Price by 79 descriptive features</a> - each model has its own reproducible pipeline with custom transformers.</li>
-  <li><a href="https://github.com/Karalius/credit-default-risk">What is default probability on this credit?</a> - modelling on large and complex datasets, extensive feature engineering.</li>
+  <li><a href="https://github.com/Karalius/house-price-prediction">Predicting house prices</a> - each model has its reproducible pipeline with custom transformers.</li>
+  <li><a href="https://github.com/Karalius/credit-default-risk">What is the default probability of this credit?</a> - modeling on large and complex datasets, extensive feature engineering.</li>
 </ol>
 </p>
 <h3 align="left">Connect with me:</h3>
