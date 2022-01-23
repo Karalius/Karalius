@@ -2,7 +2,15 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-Covid-19 pandemic provided me an opportunity to study at ISM and Turing College at the same time. More than a year later, as of today, I am confident to describe this experience as an immense success towards my professional goals. I have merged my financial knowledge gained at university and research competitions with data science and machine learning skills.
+ 
+ - 🔭 I’m currently working on **route value function approximation for same-day delivery.**
+
+- 🌱 I’m currently learning **deep learning.**
+
+- 👯 I’m looking to collaborate on **my first public project.**
+
+- 📄 Know more about my experiences via **direct message on social media!**
+ 
  </p>
 <h3 align="left">Projects:</h3>
 <p align="left">
