@@ -12,7 +12,7 @@
 - 📄 Know more about my experiences via **direct message on social media!**
  
  </p>
-<h3 align="left">Projects:</h3>
+<h3 align="left">Porfolio projects:</h3>
 <p align="left">
 <ol>
   <li><a href="https://github.com/Karalius/south-korea-covid-analysis">South Korea Covid-19 analysis</a> - action plan to fight covid derived from explanatory data analysis.</li>
