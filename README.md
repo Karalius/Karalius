@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **deep learning.**
 
-- 👯 I’m looking to collaborate on **my first public project.**
-
 - 📄 Know more about my experiences via **direct message on social media!**
  
  </p>
