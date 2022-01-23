@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kasparas</h1>
-<h3 align="center">Market-ready data scientist</h3>
-<h3 align="left">Projects:</h3>
-<p align="left">
+<img align="center" src="https://i.imgur.com/NoEVh13.png" alt="Turing College Background"/>
 
+<h3 align="left">About me:</h3>
+Covid-19 pandemic provided me an opportunity to study at ISM and Turing College at the same time. More than a year later, as of today, I am confident to describe this experience as an immense success towards my professional goals. I have merged my financial knowledge gained at university and research competitions with data science and machine learning skills.
+</p>
+<p align="left">
+<h3 align="left">Projects:</h3>
+
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kasparas-karalius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasparas-karalius" height="30" width="40" /></a>
