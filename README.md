@@ -15,15 +15,14 @@
 <h3 align="left">Porfolio projects:</h3>
 <p align="left">
 <ol>
- 
   <li><a href="https://github.com/Karalius/south-korea-covid-analysis">South Korea Covid-19 analysis</a> - action plan to fight covid derived from explanatory data analysis.</li>
- 
+  <br>
   <li><a href="https://github.com/Karalius/etsy-scraper">Etsy.com scraper on Heroku</a> - scraping eCommerce shop with data collection on PostgreSQL and deployment to Heroku.</li>
- 
+  <br>
   <li><a href="https://github.com/Karalius/scrape-totalwine.com">Rate your wine by its description + API</a> - end to end machine learning project, from scraping totalwine.com to NLP model and API. </li>
- 
-  <li><a href="https://github.com/Karalius/house-price-prediction">Predicting house prices</a> - each model has its reproducible pipeline with custom transformers.</li>
- 
+  <br>
+  <li><a href="https://github.com/Karalius/house-price-prediction">Predicting house prices</a> - various ML models with reproducible pipelines built on custom transformers.</li>
+  <br>
   <li><a href="https://github.com/Karalius/credit-default-risk">What is the default probability of this credit?</a> - modeling on large and complex datasets, extensive feature engineering.</li>
 </ol>
 </p>
